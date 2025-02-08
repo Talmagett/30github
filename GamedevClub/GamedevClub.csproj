@@ -42,6 +42,7 @@
     <ItemGroup>
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
+        <Compile Include="TeacherPlans\Lesson1.cs" />
     </ItemGroup>
     <ItemGroup>
       <Content Include="TeacherPlans\Plans.txt" />
