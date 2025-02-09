@@ -7,11 +7,11 @@ namespace GamedevClub.TeacherPlans
     {
         public void While()
         {
-            var isAlive = true;
-            var health = 10;
+            bool isAlive = true;
+            int health = 10;
             Console.WriteLine("Enemy health: " + health);
             Thread.Sleep(500);
-            var damage = 2;
+            int damage = 2;
 
             while (isAlive)
             {
