@@ -1,5 +1,4 @@
-﻿using System;
-using System.Threading;
+﻿using GamedevClub.TeacherPlans;
 
 namespace GamedevClub
 {
@@ -7,22 +6,10 @@ namespace GamedevClub
     {
         public static void Main(string[] args)
         {
-            
-            int health = 10;
-            System.Console.WriteLine("Health: " + health);
-            Thread.Sleep(500);
-
-            int poisonDamage = 2;
-            int ticks = 3;
-            System.Console.WriteLine("You get poisoned");
-            Thread.Sleep(500);
-            
-            for (int i = 0; i < ticks; i++)
-            {
-                health -= poisonDamage;
-                System.Console.WriteLine("Health: " + health);
-                Thread.Sleep(500);
-            }
+            //new Lesson1().For();
+            //new Lesson1().While();
+            //new Lesson2().CheckEvenOrOdd();
+            //new Lesson3().GuessTheNumber();
         }
     }
 }

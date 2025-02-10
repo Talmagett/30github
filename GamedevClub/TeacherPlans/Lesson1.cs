@@ -9,14 +9,16 @@ namespace GamedevClub.TeacherPlans
         {
             bool isAlive = true;
             int health = 10;
-            Console.WriteLine("Enemy health: " + health);
-            Thread.Sleep(500);
             int damage = 2;
+            
+            Console.WriteLine("Enemy health: " + health);
+            Console.WriteLine("Press A to attack");
+            Thread.Sleep(500);
 
             while (isAlive)
             {
                 Thread.Sleep(500);
-                var key = Console.ReadKey().Key;
+                ConsoleKey key = Console.ReadKey().Key;
                 if (key == ConsoleKey.A)
                 {
                     health -= damage;
@@ -32,18 +34,20 @@ namespace GamedevClub.TeacherPlans
         public void For()
         {
             int health = 10;
-            System.Console.WriteLine("Health: " + health);
+            
+            Console.WriteLine("Health: " + health);
             Thread.Sleep(500);
 
             int poisonDamage = 2;
             int ticks = 3;
-            System.Console.WriteLine("You get poisoned");
-            Thread.Sleep(500);
             
-            for (int i = 0; i < ticks; i++)
+            Console.WriteLine("You get poisoned");
+            Thread.Sleep(500);
+
+            for (var i = 0; i < ticks; i++)
             {
                 health -= poisonDamage;
-                System.Console.WriteLine("Health: " + health);
+                Console.WriteLine("Health: " + health);
                 Thread.Sleep(500);
             }
         }
