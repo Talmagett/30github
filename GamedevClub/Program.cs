@@ -10,6 +10,7 @@ namespace GamedevClub
             //new Lesson1().While();
             //new Lesson2().CheckEvenOrOdd();
             //new Lesson3().GuessTheNumber();
+            //new Lesson4().MinMaxInArray();
         }
     }
 }
