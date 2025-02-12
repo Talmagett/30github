@@ -11,6 +11,7 @@ namespace GamedevClub
             //new Lesson2().CheckEvenOrOdd();
             //new Lesson3().GuessTheNumber();
             //new Lesson4().MinMaxInArray();
+            //new Lesson5().SumNumbersInList();
         }
     }
 }
