@@ -12,6 +12,7 @@ namespace GamedevClub
             //new Lesson3().GuessTheNumber();
             //new Lesson4().MinMaxInArray();
             //new Lesson5().SumNumbersInList();
+            //new Lesson6().SumWithFunction();
         }
     }
 }

@@ -47,6 +47,7 @@
         <Compile Include="TeacherPlans\Lesson3.cs" />
         <Compile Include="TeacherPlans\Lesson4.cs" />
         <Compile Include="TeacherPlans\Lesson5.cs" />
+        <Compile Include="TeacherPlans\Lesson6.cs" />
     </ItemGroup>
     <ItemGroup>
       <Content Include="TeacherPlans\Plans.txt" />
