@@ -1,4 +1,5 @@
 ﻿using GamedevClub.TeacherPlans;
+using GamedevClub.TeacherPlans.Lesson8;
 
 namespace GamedevClub
 {
@@ -13,7 +14,8 @@ namespace GamedevClub
             //new Lesson4().MinMaxInArray();
             //new Lesson5().SumNumbersInList();
             //new Lesson6().SumWithFunction();
-            new Lesson7().OOPIntroduction();
+            //new Lesson7().OOPIntroduction();
+            //new Lesson8().InheritanceExample();
         }
     }
 }
