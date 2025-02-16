@@ -1,5 +1,6 @@
 ﻿using GamedevClub.TeacherPlans;
-using GamedevClub.TeacherPlans.Lesson8;
+using GamedevClub.TeacherPlans.Inheritance;
+using GamedevClub.TeacherPlans.Polymorphysm;
 
 namespace GamedevClub
 {
@@ -16,6 +17,7 @@ namespace GamedevClub
             //new Lesson6().SumWithFunction();
             //new Lesson7().OOPIntroduction();
             //new Lesson8().InheritanceExample();
+            //new Lesson9().PolymorphismExample();
         }
     }
 }

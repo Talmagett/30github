@@ -1,6 +1,6 @@
 using System;
 
-namespace GamedevClub.TeacherPlans.Lesson8
+namespace GamedevClub.TeacherPlans.Inheritance
 {
     public class Lesson8
     {
