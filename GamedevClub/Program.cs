@@ -1,4 +1,5 @@
 ﻿using GamedevClub.TeacherPlans;
+using GamedevClub.TeacherPlans.Encapsulation;
 using GamedevClub.TeacherPlans.Inheritance;
 using GamedevClub.TeacherPlans.Polymorphysm;
 
@@ -18,6 +19,7 @@ namespace GamedevClub
             //new Lesson7().OOPIntroduction();
             //new Lesson8().InheritanceExample();
             //new Lesson9().PolymorphismExample();
+            new Lesson10().EncapsulationExample();
         }
     }
 }
