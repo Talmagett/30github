@@ -22,6 +22,7 @@ namespace GamedevClub
             //new Lesson9().PolymorphismExample();
             //new Lesson10().EncapsulationExample();
             //new Lesson11().InterfaceExample();
+            //new Lesson12().AbstractClassExample();
         }
     }
 }
