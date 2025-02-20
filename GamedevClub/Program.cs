@@ -23,6 +23,7 @@ namespace GamedevClub
             //new Lesson10().EncapsulationExample();
             //new Lesson11().InterfaceExample();
             //new Lesson12().AbstractClassExample();
+            //new Lesson13().StaticClassExample();
         }
     }
 }
