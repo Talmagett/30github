@@ -27,6 +27,7 @@ namespace GamedevClub
             //new Lesson14().OverloadingExample();
             //new Lesson15().DelegateExample();
             //new Lesson16().EventExample();
+            //new Lesson17().LambdaExample();
         }
     }
 }
