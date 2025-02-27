@@ -30,6 +30,7 @@ namespace GamedevClub
             //new Lesson17().LambdaExample();
             //new Lesson18().LinqExample();
             //new Lesson19().MultithreadingExample();
+            //new Lesson20().AsyncExample().GetAwaiter().GetResult();
         }
     }
 }

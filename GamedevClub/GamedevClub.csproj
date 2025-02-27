@@ -10,7 +10,7 @@
         <AppDesignerFolder>Properties</AppDesignerFolder>
         <RootNamespace>GamedevClub</RootNamespace>
         <AssemblyName>GamedevClub</AssemblyName>
-        <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+        <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     </PropertyGroup>
@@ -54,6 +54,7 @@
         <Compile Include="TeacherPlans\Lesson18.cs" />
         <Compile Include="TeacherPlans\Lesson19.cs" />
         <Compile Include="TeacherPlans\Lesson2.cs" />
+        <Compile Include="TeacherPlans\Lesson20.cs" />
         <Compile Include="TeacherPlans\Lesson3.cs" />
         <Compile Include="TeacherPlans\Lesson4.cs" />
         <Compile Include="TeacherPlans\Lesson5.cs" />
