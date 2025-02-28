@@ -8,7 +8,7 @@ namespace GamedevClub
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             //new Lesson1().For();
             //new Lesson1().While();
@@ -31,6 +31,7 @@ namespace GamedevClub
             //new Lesson18().LinqExample();
             //new Lesson19().MultithreadingExample();
             //new Lesson20().AsyncExample().GetAwaiter().GetResult();
+            //new Lesson21().FileHandlingExample();
         }
     }
 }
