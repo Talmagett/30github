@@ -2,6 +2,7 @@
 using GamedevClub.TeacherPlans.Encapsulation;
 using GamedevClub.TeacherPlans.Inheritance;
 using GamedevClub.TeacherPlans.Interfaces;
+using GamedevClub.TeacherPlans.Json;
 using GamedevClub.TeacherPlans.Polymorphysm;
 
 namespace GamedevClub
@@ -32,6 +33,7 @@ namespace GamedevClub
             //new Lesson19().MultithreadingExample();
             //new Lesson20().AsyncExample().GetAwaiter().GetResult();
             //new Lesson21().FileHandlingExample();
+            //new Lesson22().JsonExample();
         }
     }
 }
