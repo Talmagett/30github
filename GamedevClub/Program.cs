@@ -34,6 +34,7 @@ namespace GamedevClub
             //new Lesson20().AsyncExample().GetAwaiter().GetResult();
             //new Lesson21().FileHandlingExample();
             //new Lesson22().JsonExample();
+            //new Lesson23().ExceptionHandlingExample();
         }
     }
 }
