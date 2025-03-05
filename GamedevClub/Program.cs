@@ -37,6 +37,7 @@ namespace GamedevClub
             //new Lesson23().ExceptionHandlingExample();
             //new Lesson24().StackExample();
             //new Lesson25().QueueExample();
+            //new Lesson26().HashSetExample();
         }
     }
 }
