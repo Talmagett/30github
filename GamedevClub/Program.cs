@@ -38,7 +38,8 @@ namespace GamedevClub
             //new Lesson24().StackExample();
             //new Lesson25().QueueExample();
             //new Lesson26().HashSetExample();
-            new Lesson27().DictionaryExample();
+            //new Lesson27().DictionaryExample();
+            //new Lesson28().TupleExample();
         }
     }
 }
