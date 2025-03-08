@@ -40,6 +40,7 @@ namespace GamedevClub
             //new Lesson26().HashSetExample();
             //new Lesson27().DictionaryExample();
             //new Lesson28().TupleExample();
+            //new Lesson29().StructExample();
         }
     }
 }
