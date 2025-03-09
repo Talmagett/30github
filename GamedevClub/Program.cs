@@ -1,5 +1,6 @@
 ﻿using GamedevClub.TeacherPlans;
 using GamedevClub.TeacherPlans.Encapsulation;
+using GamedevClub.TeacherPlans.Game;
 using GamedevClub.TeacherPlans.Inheritance;
 using GamedevClub.TeacherPlans.Interfaces;
 using GamedevClub.TeacherPlans.Json;
@@ -41,6 +42,7 @@ namespace GamedevClub
             //new Lesson27().DictionaryExample();
             //new Lesson28().TupleExample();
             //new Lesson29().StructExample();
+            //new Lesson30().StartGame();
         }
     }
 }

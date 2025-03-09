@@ -68,6 +68,7 @@
         <Compile Include="TeacherPlans\Lesson28.cs" />
         <Compile Include="TeacherPlans\Lesson29.cs" />
         <Compile Include="TeacherPlans\Lesson3.cs" />
+        <Compile Include="TeacherPlans\Lesson30.cs" />
         <Compile Include="TeacherPlans\Lesson4.cs" />
         <Compile Include="TeacherPlans\Lesson5.cs" />
         <Compile Include="TeacherPlans\Lesson6.cs" />
